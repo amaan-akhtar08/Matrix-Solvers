@@ -1,1 +1,3 @@
-hello
+hello,
+
+This repo contains various matrix solvers that solve linear equations produced with FDM method as well as FEM method.
